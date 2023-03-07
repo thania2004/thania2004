@@ -1,8 +1,5 @@
-<h1>Hello there! My name is <em>Thania Gamarra Bruno</em> And I am a Full-stack developer🫡💻🛠️⚙️⚗️💙</h1>
-
-<br>
-<br>
-
+<h1>Hello there! My name is <em>Thania Gamarra Bruno</em> and I am a Full-stack developer💻🛠️⚙️⚗️</h1>
+<br> 
 <h2>My Work Experience🚀✨✨<h2>
 
 I have been in this field for quite some time now and I must say, I have enjoyed every bit of it. Recently, I have been learning Typescript, and I am excited to apply my knowledge to create amazing software projects.🚀✨✨
