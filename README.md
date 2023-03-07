@@ -1,8 +1,7 @@
-<h1>Hello there! My name is <em>Thania Gamarra Bruno</em></h1>
+<h1>Hello there! My name is <em>Thania Gamarra Bruno</em> And I am a Full-stack developer🫡💻🛠️⚙️⚗️💙</h1>
 
 <br>
 <br>
-<h1>And I am a Full-stack developer🫡💻🛠️⚙️⚗️💙</h1> 
 
 <h2>My Work Experience🚀✨✨<h2>
 
