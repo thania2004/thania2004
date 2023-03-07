@@ -8,19 +8,19 @@
 
 I have been in this field for quite some time now and I must say, I have enjoyed every bit of it. Recently, I have been learning Typescript, and I am excited to apply my knowledge to create amazing software projects.🚀✨✨
 
-/*
+
 <h2>My work Ethic ❤️🤝</h2>
 I am always on the lookout for opportunities to collaborate on software development projects. I believe that working with other developers not only helps me learn new skills but also provides an avenue to share my knowledge and ideas. As a full-stack developer, I have a wide range of skills that I can bring to any project, and I am always willing to lend a hand whenever and wherever it is needed.
 
   <h2>"The Perpetual Learner: The Never-Ending Quest for Knowledge and Growth"📚🎓💻 </h2>
 One of the things that excites me the most about being a full-stack developer is the ever-evolving nature of the industry. I am always on the lookout for new stacks and technologies to learn and incorporate into my work. I believe that staying up to date with the latest trends and tools is essential to creating cutting-edge solutions that meet the needs of clients and end-users.
-*/
+
   
- /* 
+ 
   <h2>My Passion 🥇🔋</h2>
 In conclusion, I am passionate about software development, always eager to learn and collaborate with other developers, and committed to staying up to date with the latest tools and technologies. I am excited about the prospect of working with you and contributing my skills to create amazing software projects.🚀✨✨
 <br>
-  */
+  
 <br>
  <br>
 <div>
